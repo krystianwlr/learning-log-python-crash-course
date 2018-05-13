@@ -1,0 +1,3 @@
+p-dev/
+__pycache__/
+*.sqlite3
